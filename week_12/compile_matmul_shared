@@ -1,0 +1,1 @@
+nvcc -arch=sm_70 -o matmul_shared matmul_shared.cu -run

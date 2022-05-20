@@ -1,0 +1,1 @@
+nvcc -arch=sm_70 -o 9_vector_sum_block_unified 9_vector_sum_block_unified.cu -run

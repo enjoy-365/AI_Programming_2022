@@ -1,0 +1,1 @@
+nvcc -arch=sm_70 -o 4_dot_product 4_dot_product.cu -run

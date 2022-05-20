@@ -1,0 +1,1 @@
+nvcc -arch=sm_70 -o 1_exec_conf_1D 1_exec_conf_1D.cu -run

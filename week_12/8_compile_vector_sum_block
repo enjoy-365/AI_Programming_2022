@@ -1,0 +1,1 @@
+nvcc -arch=sm_70 -o 8_vector_sum_block 8_vector_sum_block.cu -run
